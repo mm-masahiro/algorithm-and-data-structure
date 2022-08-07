@@ -26,4 +26,3 @@ def main(n)
 end
 
 puts main(5)
-
