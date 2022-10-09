@@ -10,22 +10,6 @@ const fibonacciAlgo = (n: number): number => {
 
   console.log(`excuesed ${n}`) 
 
-  // 4, 3, 2, 2, 3, 2
-
-  // 5
-  // fibonacciAlgo(4) + fibonacciAlgo(3)
-
-  // 4, 3
-  // fibonacciAlgo(3)
-  // fibonacciAlgo(2)
-
-  // 3, 2
-  // fibonacciAlgo(2)
-  // fibonacciAlgo(1) -> not out put to cl
-
-
-
-
   // 5
   // fibonacciAlgo(4) + fibonacciAlgo(3)
 
