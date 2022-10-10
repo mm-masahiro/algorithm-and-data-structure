@@ -14,7 +14,7 @@
 // func(N, W)
 var N = 4;
 var nums = [3, 2, 6, 5];
-var W = 14;
+var W = 140;
 var partialSum = function (nums, sum) {
     if (nums.length === 0)
         return sum === 0 ? true : false;
